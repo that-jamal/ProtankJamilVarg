@@ -432,7 +432,7 @@ li a {
    .midbox:hover {
 
     width:100%;
-}
+    }
     #start {
         min-height: 45vh;
         width: 100%;
@@ -447,7 +447,8 @@ li a {
     }
     .mid_slideshow {
         width: 100%;
-        max-height: auto;
+        max-height:fit-content;
+        height: fit-content;
     }
     #slideshow {
         width: 100%;
