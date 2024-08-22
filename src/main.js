@@ -18,6 +18,7 @@ let currentIndex = 0;
 
 const updateImage = () => {
     imgElement.src = images[currentIndex];
+    imgElement.alt = images[currentIndex];
 };
 
 const showPreviousImage = () => {
