@@ -27,4 +27,7 @@ const showNextImage = () => {
 prevButton.addEventListener('click', showPreviousImage);
 nextButton.addEventListener('click', showNextImage);
 updateImage();
+
+
+console.log("test", currentIndex)
 /**made by jamil varg 2024 sosdata lia**/
