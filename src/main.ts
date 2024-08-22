@@ -1,5 +1,3 @@
-
-import './style.css'
 const images: string[] = [
     'public/truck-1.jpg',
     'public/truck-2.jpg',
