@@ -1,6 +1,6 @@
-import './style.css';
 
 const images = [
+    'test',
     'public/truck-1.jpg',
     'public/truck-2.jpg',
     'public/truck-3.jpg',
