@@ -247,7 +247,7 @@ h1 {
 #contact {
     display: flex;
     flex-direction: column;
-    width: 35%;
+    width: 50%;
 }
 .mid_slideshow {
     position: relative;
