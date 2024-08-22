@@ -1,6 +1,7 @@
-let styles = ('./styles.css');
+
+import './style.css'
 const images: string[] = [
-    'public/truck-1.jpg',
+    './truck-1.jpg',
     'public/truck-2.jpg',
     'public/truck-3.jpg',
     'public/truck-4.jpg',
