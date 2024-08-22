@@ -1,14 +1,14 @@
 
 import './style.css'
 const images: string[] = [
-    '/truck-1.jpg',
-    '/truck-2.jpg',
-    '/truck-3.jpg',
-    '/truck-4.jpg',
-    '/truck-5.jpg',
-    '/truck-6.jpg',
-    '/truck-7.jpg',
-    '/truck-8.jpg'
+    'public/truck-1.jpg',
+    'public/truck-2.jpg',
+    'public/truck-3.jpg',
+    'public/truck-4.jpg',
+    'public/truck-5.jpg',
+    'public/truck-6.jpg',
+    'public/truck-7.jpg',
+    'public/truck-8.jpg'
 ];
 
 const imgElement = document.getElementById('slideshow') as HTMLImageElement;
