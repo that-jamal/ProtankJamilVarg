@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿
+=======
+
+>>>>>>> 68d5a164640ce4f461a2f8e832886887cfde550e
 # Protank Oy Ab Website
 
 This repository contains the updated website for **Protank Oy Ab**, a transportation company specializing in the transportation of liquid products, including hazardous chemicals. The website is designed to provide detailed information about the company's services, vehicles, and contact details while ensuring a modern and user-friendly interface.
