@@ -409,9 +409,7 @@ li a {
     .midimg {
         width: 100%;
         top: 100%;
-        height: fit-content;
         transition: width 0.3s,height 0.2s;
-        
     }
     .midbox {
         box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
