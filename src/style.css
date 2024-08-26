@@ -406,6 +406,9 @@ li a {
     #contact {
         width: 100%;
     }
+    
+
+    
     .mid{
         border-bottom: 1px solid #99c793;
        flex-wrap: none;
@@ -414,6 +417,11 @@ li a {
         height: fit-content;
         background-color: transparent;
         background-image: linear-gradient(rgb(232, 236, 243), #f2ffe7);
+        h1 {
+            display: block;
+            padding-top: 10px;
+        }
+
     }
     .midimg {
         height:auto;
