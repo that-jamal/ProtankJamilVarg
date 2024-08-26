@@ -395,14 +395,14 @@ li a {
     color: #fcfcfc;
 }
 
-
-@media (max-width: 1190px) {
-   
+  
     iframe {
         height: 30vh;
         width: 100%;
     }
 
+@media (max-width: 1190px) {
+ 
     #contact {
         width: 100%;
     }
