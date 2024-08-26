@@ -416,9 +416,8 @@ li a {
         background-image: linear-gradient(rgb(232, 236, 243), #f2ffe7);
     }
     .midimg {
-        width: 324px;
-        float: none;
-        margin: 0;
+        height: fit-content;
+        width: 100%;
         top: 100%;
         transition: width 0.3s,height 0.2s;
     }
@@ -518,9 +517,11 @@ li a {
         background-image: linear-gradient(rgb(232, 236, 243), #f2ffe7);
     }
     .midimg {
-        width: 100%;
+        width: 324px;
+        float: none;
+        margin: 0;
         top: 100%;
-        height: fit-content;
+      
         transition: width 0.3s,height 0.2s;
         
     }
