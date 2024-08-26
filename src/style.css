@@ -393,8 +393,9 @@ li a {
     color: #fcfcfc;
 }
 
-@media (max-width: 1190px) {
 
+@media (max-width: 1190px) {
+   
     iframe {
         width: fit-content;
     }
@@ -484,7 +485,17 @@ li a {
     }
 }
 @media (max-width: 600px) {
-
+    .lang-selector {
+        margin-left: 10px;
+        padding-left: 10px;
+    }
+    .follow-us-content a {
+        right: 40%;
+        position: relative;
+        margin-left: 4px;
+        padding: 4px;
+       
+    }
     .mid{
         border-bottom: 1px solid #99c793;
        flex-wrap: none;
