@@ -517,7 +517,8 @@ li a {
         background-image: linear-gradient(rgb(232, 236, 243), #f2ffe7);
     }
     .midimg {
-        width: 324px;
+         display: block;
+         width:100%;
         float: none;
         margin: 0;
         top: 100%;
