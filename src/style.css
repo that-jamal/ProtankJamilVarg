@@ -456,7 +456,7 @@ li a {
     .mid_slideshow {
         width: 100%;
         max-height:fit-content;
-        height: fit-content;
+        height: auto;
     }
     #slideshow {
         width: 100%;
