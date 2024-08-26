@@ -166,7 +166,7 @@ h1 {
 .midimg {
     width: 100%;
     top: 100%;
-    height: fit-content;
+    height: auto;
     transition: width 0.3s,height 0.2s;
     
 }
