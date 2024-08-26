@@ -402,13 +402,7 @@ li a {
     }
 
 @media (max-width: 1190px) {
-    iframe {
-        display: none;
-        min-width: 200px;
-        min-height: none;
-        height: 30vh;
-        width: 100%;
-    }
+   
     #contact {
         width: 100%;
     }
@@ -494,6 +488,13 @@ li a {
     }
 }
 @media (max-width: 600px) {
+    iframe {
+        display: none;
+        min-width: 200px;
+        min-height: none;
+        height: 30vh;
+        width: 100%;
+    }
     .lang-selector {
         margin-left: 10px;
         padding-left: 10px;
