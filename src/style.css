@@ -394,6 +394,11 @@ li a {
 }
 
 @media (max-width: 1190px) {
+
+    iframe {
+        width: fit-content;
+    }
+
     #contact {
         width: 100%;
     }
