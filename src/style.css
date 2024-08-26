@@ -402,6 +402,12 @@ li a {
     }
 
 @media (max-width: 1190px) {
+    iframe {
+        min-width: 200px;
+        height: 30vh;
+        width: 100%;
+    }
+
  
     #contact {
         width: 100%;
