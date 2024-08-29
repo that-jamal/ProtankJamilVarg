@@ -310,6 +310,7 @@ h1 {
     height: 1em;
     cursor: pointer;
     border: 2px solid transparent;
+
 }
 .active {
     border: 2px solid black;
@@ -354,6 +355,7 @@ li a {
     cursor: pointer;
 }
 .follow-us {
+    width: 20%;
     display: inline-block;
 }
 .follow-us-content {
@@ -395,10 +397,10 @@ li a {
 }
 
   
-    iframe {
+iframe {
         height: 30vh;
         width: 100%;
-    }
+}
 
 @media (max-width: 1190px) {
    
