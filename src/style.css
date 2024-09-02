@@ -24,14 +24,6 @@ body {
     min-height: 100vh;
     width: 100%;
 }
-h1, p {
-    padding-top: 15px;
-}
-h1 {
-
-    color: #223e01;
-    margin-bottom: 20px;
-}
 #footer {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 100%;
@@ -82,12 +74,12 @@ h1 {
 #contact-info h2 {
     margin-top: 0;
     color: #333;
-    font-size: 24px;
+    font-size: 34px;
 }
 #contact-info p {
     margin: 5px 0;
     color: #555;
-    font-size: 16px;
+    font-size: 22px;
 }
 #contact-form {
     display: flex;
@@ -258,7 +250,7 @@ h1 {
 #contact {
     display: flex;
     flex-direction: column;
-    width: 50%;
+    width: 60%;
 }
 .mid_slideshow {
     position: relative;
@@ -331,7 +323,7 @@ li a {
     font-family: "Bebas Neue", sans-serif;;
     font-weight:lighter;
     display: block;
-    color: #505050;
+    color: #000000;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -359,7 +351,7 @@ iframe {
         width: 100%;
 }
 
-@media (max-width: 1190px) {
+@media (max-width: 1250px) {
    
     #contact {
         width: 100%;
