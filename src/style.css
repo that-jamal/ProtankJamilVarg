@@ -213,7 +213,7 @@ body {
 }
 
 iframe {
-    padding: 3px;
+    padding-top: 3px;
     height:32vh;
     width: 100%;
 }
