@@ -204,7 +204,9 @@ body {
     h2{
         font-family: "Bebas Neue", sans-serif;
     }
-    
+    img{
+        border-radius: 3%;
+    }
 }
 .lower_contact {
     border-top: 2px solid transparent;
@@ -361,7 +363,6 @@ li a {
     }
 
    .midbox:hover {
-
     width:100%;
     }
     #start {
