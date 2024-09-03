@@ -213,13 +213,14 @@ body {
 }
 
 iframe {
-    height:28vh;
+    padding: 3px;
+    height:32vh;
     width: 100%;
 }
 #contact {
     display: flex;
     flex-direction: column;
-    width: 60%;
+    width: 90%;
 }
 .mid_slideshow {
     position: relative;
