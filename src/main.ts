@@ -1,4 +1,4 @@
-const images: string[] = [
+/**const images: string[] = [
     'public/truck-1.jpg',
     'public/truck-2.jpg',
     'public/truck-3.jpg',
@@ -27,4 +27,4 @@ const showNextImage = () => {
 prevButton.addEventListener('click', showPreviousImage);
 nextButton.addEventListener('click', showNextImage);
 updateImage();
-/**made by jamil varg 2024 sosdata lia**/
+made by jamil varg 2024 sosdata lia**/

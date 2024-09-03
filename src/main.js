@@ -1,4 +1,4 @@
-
+/**
 const images = [
     'public/carpov.mp4,',
     'public/tankpov.mp4',
@@ -33,3 +33,4 @@ const showNextImage = () => {
 prevButton.addEventListener('click', showPreviousImage);
 nextButton.addEventListener('click', showNextImage);
 updateImage();
+**/
