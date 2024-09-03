@@ -213,7 +213,7 @@ body {
 }
 
 iframe {
-    height:40vh;
+    height:30vh;
     width: 100%;
 }
 #contact {
@@ -412,8 +412,12 @@ li a {
     }
 }
 @media (max-width: 600px) {
+    .mid_contact {
+        img{
+       display: none;     
+        } 
+    }
     iframe {
-        display: none;
         min-width: 200px;
         min-height: none;
         height: 30vh;
